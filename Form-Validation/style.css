@@ -1,0 +1,23 @@
+form {
+  padding: 10px;
+}
+
+form input {
+  margin: 8px;
+  padding: 10px;
+  border-radius: 5px;
+  width: 80%;
+}
+
+form button {
+  padding: 8px 16px;
+  border-radius: 6px;
+  background-color: #5C6AC4;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #3f4fb1;
+}
