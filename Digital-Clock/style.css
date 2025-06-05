@@ -1,0 +1,12 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: hsl(0, 0%, 94%);
+  text-align: center;
+  padding-top: 100px;
+}
+
+#currentTime, #todayDate {
+  font-size: 28px;
+  color: #333;
+  margin: 10px 0;
+}
